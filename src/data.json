@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "logo": "Johan Naizu",
+    "links": [
+      {
+        "title": "Resume",
+        "url": "https://cdn.jonaz.tech/resume"
+      }
+    ]
+  },
+
+  "intro": {
+    "icon": "/icons/intro-icon.svg"
+  },
+
+  "portrait": {
+    "image": "/portrait.png"
+  },
+
+  "about": {
+    "text": "I am Johan Naizu, a software developer, DevOps specialist, and aspiring Big Data Engineer. With expertise in tools like Kubernetes, Docker, and cloud platforms, I create scalable, efficient systems and leverage innovative solutions to tackle complex real-world challenges.",
+    "icon": "/icons/about-icon.svg"
+  },
+
+  "contact": {
+    "label": "Have some questions?",
+    "heading": "Contact <span class='italic'>me</span>",
+    "linkIcon": "/icons/arrow-icon.svg",
+    "email": "contact@jonaz.tech"
+  },
+
+  "work": {
+    "projects": [
+      {
+        "title": "Ragam",
+        "url": "https://23.ragam.co.in/",
+        "media": "/r23.png"
+      },
+      {
+        "title": "Sypher",
+        "url": "https://github.com/johan-naizu/Sypher",
+        "media": "/sypher.jpg"
+      },
+      {
+        "title": "Tathva",
+        "url": "https://23.tathva.org/",
+        "media": "/t23.png"
+      },
+      {
+        "title": "Univent",
+        "url": "https://github.com/johan-naizu/univent",
+        "media": "/univent.jpg"
+      },
+      {
+        "title": "Future Talks",
+        "url": "https://myfuturetalks.com/",
+        "media": "/futuretalks.png"
+      },
+      {
+        "title": "Random Topics",
+        "url": "https://github.com/johan-naizu/random_topic",
+        "media": "/pip.webp"
+      }
+    ],
+    "linkIcon": "/icons/arrow-icon-black.svg"
+  },
+
+  "socials": {
+    "links": [
+      {
+        "title": "Github",
+        "url": "https://github.com/johan-naizu"
+      },
+      {
+        "title": "Linkedin",
+        "url": "https://linkedin.com/in/johan-naizu/"
+      },
+      {
+        "title": "Discord",
+        "url": "https://discord.com/invite/SqS3kEGu5E"
+      }
+    ]
+  }
+}
