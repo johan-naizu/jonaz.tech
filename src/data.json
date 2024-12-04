@@ -32,6 +32,11 @@
   "work": {
     "projects": [
       {
+        "title": "Random Topics",
+        "url": "https://github.com/johan-naizu/random_topic",
+        "media": "/pip.webp"
+      },
+      {
         "title": "Ragam",
         "url": "https://23.ragam.co.in/",
         "media": "/r23.png"
@@ -55,11 +60,6 @@
         "title": "Future Talks",
         "url": "https://myfuturetalks.com/",
         "media": "/futuretalks.png"
-      },
-      {
-        "title": "Random Topics",
-        "url": "https://github.com/johan-naizu/random_topic",
-        "media": "/pip.webp"
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"

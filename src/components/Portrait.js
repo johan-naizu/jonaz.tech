@@ -18,7 +18,7 @@ export default function Portrait({ data, timeline }) {
             src={data.image}
             fill={true}
             alt='black woman'
-            className='h-full w-full object-contain object-right-bottom mix-blend-luminosity'
+            className='h-full w-full object-contain object-bottom'
             priority={true}
             placeholder='blur'
             blurDataURL={BLUR_DATA_URL}
@@ -36,7 +36,7 @@ export default function Portrait({ data, timeline }) {
               src={data.image}
               fill={true}
               alt='black woman'
-              className='h-full w-full object-contain object-right-bottom mix-blend-luminosity'
+              className='h-full w-full object-contain object-bottom'
               priority={true}
               placeholder='blur'
               blurDataURL={BLUR_DATA_URL}

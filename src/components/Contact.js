@@ -24,7 +24,7 @@ export default function Contact({ data, timeline }) {
   return (
     <Box
       timeline={timeline}
-      className='-translate-y-full scale-0 bg-secondary text-primary opacity-0'
+      className='-translate-y-full scale-0 bg-secondary text-background opacity-0'
       callbackAnimation={contentAnimation}
     >
       <div className='size-full'>

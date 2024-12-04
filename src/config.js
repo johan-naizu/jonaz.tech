@@ -9,4 +9,4 @@ export const DISABLE_LOADING_ANIMATION = false;
   generate solid color blur data url (https://png-pixel.com/)
 **/
 export const BLUR_DATA_URL =
-  'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjCAvx/A8AA+oB81aCOA0AAAAASUVORK5CYII=';
+  'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mM0DU/8DwADpAHufbKf5wAAAABJRU5ErkJggg==';
