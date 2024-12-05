@@ -60,6 +60,16 @@
         "title": "Future Talks",
         "url": "https://myfuturetalks.com/",
         "media": "/futuretalks.png"
+      },
+      {
+        "title": "Speech",
+        "url": "https://github.com/johan-naizu/speech-recognition",
+        "media": "/speech-recognition.png"
+      },
+      {
+        "title": "Solar Power Forecasting",
+        "url": "https://github.com/johan-naizu/solar-power-forecasting",
+        "media": "/ann.png"
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"
