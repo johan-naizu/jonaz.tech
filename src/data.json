@@ -33,43 +33,52 @@
     "projects": [
       {
         "title": "Random Topics",
+        "description": "python pip module",
         "url": "https://github.com/johan-naizu/random_topic",
         "media": "/pip.webp"
       },
       {
-        "title": "Ragam",
-        "url": "https://23.ragam.co.in/",
-        "media": "/r23.png"
-      },
-      {
         "title": "Sypher",
+        "description": "discord bot",
         "url": "https://github.com/johan-naizu/Sypher",
         "media": "/sypher.jpg"
       },
       {
+        "title": "Ragam",
+        "description": "cultural fest of nitc",
+        "url": "https://23.ragam.co.in/",
+        "media": "/r23.png"
+      },
+
+      {
         "title": "Tathva",
+        "description": "tech fest of nitc",
         "url": "https://23.tathva.org/",
         "media": "/t23.png"
       },
       {
         "title": "Univent",
+        "description": "event management system",
         "url": "https://github.com/johan-naizu/univent",
         "media": "/univent.jpg"
       },
       {
         "title": "Future Talks",
+        "description": "career consulting firm",
         "url": "https://myfuturetalks.com/",
         "media": "/futuretalks.png"
       },
       {
         "title": "Speech",
+        "description": "speech recognition system",
         "url": "https://github.com/johan-naizu/speech-recognition",
         "media": "/speech-recognition.png"
       },
       {
         "title": "Solar Power Forecasting",
+        "description": "machine learning model",
         "url": "https://github.com/johan-naizu/solar-power-forecasting",
-        "media": "/ann.png"
+        "media": "/solar.png"
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"

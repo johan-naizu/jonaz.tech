@@ -89,6 +89,11 @@ const ProjectItem = ({
           )}
         </a>
       </div>
+      <p className='font-gilroy mt-2 overflow-hidden text-left text-sm font-light italic leading-[100%]'>
+        <span className='work-heading block pb-[2px]'>
+          {project?.description}
+        </span>
+      </p>
 
       {/* Thumbnail */}
       <a
