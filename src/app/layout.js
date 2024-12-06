@@ -6,6 +6,13 @@ import { gilroy } from './fonts';
 export const metadata = {
   title: 'Johan Naizu',
   description: 'A Software Developer',
+  metadataBase: new URL('https://jonaz.tech'),
+  alternates: {
+    canonical: '/',
+  },
+  keywords: ['Johan Naizu', 'Software Developer', 'Web Developer', 'Jonaz'],
+  url: 'https://jonaz.tech',
+  siteName: 'Johan Naizu',
 };
 
 const fontHeading = DM_Serif_Display({
