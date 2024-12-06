@@ -32,6 +32,12 @@
   "work": {
     "projects": [
       {
+        "title": "Solar Power Forecasting",
+        "description": "machine learning model",
+        "url": "https://github.com/johan-naizu/solar-power-forecasting",
+        "media": "/solar.png"
+      },
+      {
         "title": "Random Topics",
         "description": "python pip module",
         "url": "https://github.com/johan-naizu/random_topic",
@@ -73,12 +79,6 @@
         "description": "speech recognition system",
         "url": "https://github.com/johan-naizu/speech-recognition",
         "media": "/speech-recognition.png"
-      },
-      {
-        "title": "Solar Power Forecasting",
-        "description": "machine learning model",
-        "url": "https://github.com/johan-naizu/solar-power-forecasting",
-        "media": "/solar.png"
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"

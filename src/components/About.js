@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Box from './Box';
-
+import Skills from './Skills';
 export default function About({ data, timeline }) {
   const contentAnimation = delay => {
     const offset = 0.3;
@@ -36,6 +36,7 @@ export default function About({ data, timeline }) {
         <p className='about-text max-w-[25rem] pb-2 text-lg leading-[135%]'>
           {data?.text}
         </p>
+        <Skills />
       </div>
     </Box>
   );

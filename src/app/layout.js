@@ -27,6 +27,12 @@ const fontBody = DM_Sans({
 export default function RootLayout({ children }) {
   return (
     <html lang='en' className='hide-scrollbar'>
+      <head>
+        <link
+          href='https://cdn.lineicons.com/5.0/lineicons.css'
+          rel='stylesheet'
+        />
+      </head>
       <body
         className={`${fontHeading.variable} ${fontBody.variable} ${gilroy.variable} antialiased`}
       >
