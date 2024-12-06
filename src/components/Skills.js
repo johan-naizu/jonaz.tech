@@ -17,8 +17,8 @@ export default function Skills() {
   const duplicatedSlides = [...slides, ...slides];
 
   return (
-    <div>
-      <div className='before:blur-3 after:blur-3 absolute inset-0 z-20 before:absolute before:left-0 before:top-0 before:h-full before:w-1/4 after:absolute after:right-0 after:top-0 after:h-full after:w-1/4'></div>
+    <div className='relative overflow-hidden'>
+      <div className='before:blur-3 after:blur-3 absolute inset-0 z-20 before:absolute before:left-0 before:top-0 before:h-full before:w-1/12 before:bg-gradient-to-r before:from-primary before:to-transparent before:filter after:absolute after:right-0 after:top-0 after:h-full after:w-1/12 after:bg-gradient-to-l after:from-primary after:to-transparent after:filter'></div>
 
       <motion.div
         className='flex'
