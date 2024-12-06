@@ -29,7 +29,7 @@ export default function Nav({ data, timeline }) {
               rel='noopener noreferrer'
               className='inline-block'
             >
-              <button className='rounded-xl border border-secondary bg-secondary px-4 py-3 pt-3.5 font-medium uppercase text-background'>
+              <button className='rounded-2xl border border-secondary bg-secondary px-4 py-3 pt-3.5 font-medium uppercase text-background'>
                 {link.title}
               </button>
             </a>
