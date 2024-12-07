@@ -13,7 +13,7 @@ export default function Nav({ data, timeline }) {
       className='translate-y-full scale-0 opacity-0'
       callbackAnimation={contentAnimation}
     >
-      <nav className='flex size-full items-center justify-between max-lg:gap-4 max-md:flex-col max-md:justify-center'>
+      <nav className='flex size-full items-center justify-between max-lg:gap-4'>
         <div className='logo font-gilroy overflow-hidden text-2xl font-medium'>
           <span className='block'>
             {' '}
